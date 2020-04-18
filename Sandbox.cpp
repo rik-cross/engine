@@ -1,6 +1,5 @@
 #include "Engine.h"
 
-
 class Sandbox : public Engine::Application {
     /* not needed until overridden.
     public:
